@@ -1,0 +1,129 @@
+x,y,file,label,class
+-8,3,map/35c.wav,a. Very High (average rating between 4-5),0
+-4,3,map/113c.wav,a. Very High (average rating between 4-5),0
+0,3,map/124c.wav,a. Very High (average rating between 4-5),0
+4,3,map/18c.wav,a. Very High (average rating between 4-5),0
+8,3,map/48c.wav,a. Very High (average rating between 4-5),0
+-27,2,map/37c.wav,b. High (average rating between 3-4),1
+-26,2,map/89c.wav,b. High (average rating between 3-4),1
+-25,2,map/42c.wav,b. High (average rating between 3-4),1
+-24,2,map/17c.wav,b. High (average rating between 3-4),1
+-23,2,map/41c.wav,b. High (average rating between 3-4),1
+-22,2,map/39c.wav,b. High (average rating between 3-4),1
+-21,2,map/25c.wav,b. High (average rating between 3-4),1
+-20,2,map/122c.wav,b. High (average rating between 3-4),1
+-19,2,map/8c.wav,b. High (average rating between 3-4),1
+-18,2,map/6c.wav,b. High (average rating between 3-4),1
+-17,2,map/116c.wav,b. High (average rating between 3-4),1
+-16,2,map/90c.wav,b. High (average rating between 3-4),1
+-15,2,map/15c.wav,b. High (average rating between 3-4),1
+-14,2,map/118c.wav,b. High (average rating between 3-4),1
+-13,2,map/88c.wav,b. High (average rating between 3-4),1
+-12,2,map/47c.wav,b. High (average rating between 3-4),1
+-11,2,map/117c.wav,b. High (average rating between 3-4),1
+-10,2,map/68c.wav,b. High (average rating between 3-4),1
+-9,2,map/5c.wav,b. High (average rating between 3-4),1
+-8,2,map/52c.wav,b. High (average rating between 3-4),1
+-7,2,map/66c.wav,b. High (average rating between 3-4),1
+-6,2,map/38c.wav,b. High (average rating between 3-4),1
+-5,2,map/53c.wav,b. High (average rating between 3-4),1
+-4,2,map/31c.wav,b. High (average rating between 3-4),1
+-3,2,map/40c.wav,b. High (average rating between 3-4),1
+-2,2,map/59c.wav,b. High (average rating between 3-4),1
+-1,2,map/71c.wav,b. High (average rating between 3-4),1
+0,2,map/73c.wav,b. High (average rating between 3-4),1
+1,2,map/75c.wav,b. High (average rating between 3-4),1
+2,2,map/105c.wav,b. High (average rating between 3-4),1
+3,2,map/30c.wav,b. High (average rating between 3-4),1
+4,2,map/67c.wav,b. High (average rating between 3-4),1
+5,2,map/50c.wav,b. High (average rating between 3-4),1
+6,2,map/1c.wav,b. High (average rating between 3-4),1
+7,2,map/43c.wav,b. High (average rating between 3-4),1
+8,2,map/111c.wav,b. High (average rating between 3-4),1
+9,2,map/63c.wav,b. High (average rating between 3-4),1
+10,2,map/102c.wav,b. High (average rating between 3-4),1
+11,2,map/77c.wav,b. High (average rating between 3-4),1
+12,2,map/51c.wav,b. High (average rating between 3-4),1
+13,2,map/127c.wav,b. High (average rating between 3-4),1
+14,2,map/126c.wav,b. High (average rating between 3-4),1
+15,2,map/99c.wav,b. High (average rating between 3-4),1
+16,2,map/69c.wav,b. High (average rating between 3-4),1
+17,2,map/28c.wav,b. High (average rating between 3-4),1
+18,2,map/55c.wav,b. High (average rating between 3-4),1
+19,2,map/103c.wav,b. High (average rating between 3-4),1
+20,2,map/58c.wav,b. High (average rating between 3-4),1
+21,2,map/109c.wav,b. High (average rating between 3-4),1
+22,2,map/49c.wav,b. High (average rating between 3-4),1
+23,2,map/12c.wav,b. High (average rating between 3-4),1
+24,2,map/96c.wav,b. High (average rating between 3-4),1
+25,2,map/98c.wav,b. High (average rating between 3-4),1
+26,2,map/16c.wav,b. High (average rating between 3-4),1
+27,2,map/114c.wav,b. High (average rating between 3-4),1
+-29,1,map/26c.wav,c. Low (average rating between 2-3),2
+-28,1,map/65c.wav,c. Low (average rating between 2-3),2
+-27,1,map/81c.wav,c. Low (average rating between 2-3),2
+-26,1,map/128c.wav,c. Low (average rating between 2-3),2
+-25,1,map/79c.wav,c. Low (average rating between 2-3),2
+-24,1,map/74c.wav,c. Low (average rating between 2-3),2
+-23,1,map/87c.wav,c. Low (average rating between 2-3),2
+-22,1,map/91c.wav,c. Low (average rating between 2-3),2
+-21,1,map/107c.wav,c. Low (average rating between 2-3),2
+-20,1,map/33c.wav,c. Low (average rating between 2-3),2
+-19,1,map/78c.wav,c. Low (average rating between 2-3),2
+-18,1,map/108c.wav,c. Low (average rating between 2-3),2
+-17,1,map/70c.wav,c. Low (average rating between 2-3),2
+-16,1,map/7c.wav,c. Low (average rating between 2-3),2
+-15,1,map/36c.wav,c. Low (average rating between 2-3),2
+-14,1,map/19c.wav,c. Low (average rating between 2-3),2
+-13,1,map/32c.wav,c. Low (average rating between 2-3),2
+-12,1,map/80c.wav,c. Low (average rating between 2-3),2
+-11,1,map/72c.wav,c. Low (average rating between 2-3),2
+-10,1,map/27c.wav,c. Low (average rating between 2-3),2
+-9,1,map/92c.wav,c. Low (average rating between 2-3),2
+-8,1,map/60c.wav,c. Low (average rating between 2-3),2
+-7,1,map/119c.wav,c. Low (average rating between 2-3),2
+-6,1,map/93c.wav,c. Low (average rating between 2-3),2
+-5,1,map/76c.wav,c. Low (average rating between 2-3),2
+-4,1,map/21c.wav,c. Low (average rating between 2-3),2
+-3,1,map/86c.wav,c. Low (average rating between 2-3),2
+-2,1,map/11c.wav,c. Low (average rating between 2-3),2
+-1,1,map/13c.wav,c. Low (average rating between 2-3),2
+0,1,map/110c.wav,c. Low (average rating between 2-3),2
+1,1,map/112c.wav,c. Low (average rating between 2-3),2
+2,1,map/56c.wav,c. Low (average rating between 2-3),2
+3,1,map/61c.wav,c. Low (average rating between 2-3),2
+4,1,map/34c.wav,c. Low (average rating between 2-3),2
+5,1,map/10c.wav,c. Low (average rating between 2-3),2
+6,1,map/84c.wav,c. Low (average rating between 2-3),2
+7,1,map/94c.wav,c. Low (average rating between 2-3),2
+8,1,map/45c.wav,c. Low (average rating between 2-3),2
+9,1,map/64c.wav,c. Low (average rating between 2-3),2
+10,1,map/135c.wav,c. Low (average rating between 2-3),2
+11,1,map/20c.wav,c. Low (average rating between 2-3),2
+12,1,map/83c.wav,c. Low (average rating between 2-3),2
+13,1,map/46c.wav,c. Low (average rating between 2-3),2
+14,1,map/82c.wav,c. Low (average rating between 2-3),2
+15,1,map/62c.wav,c. Low (average rating between 2-3),2
+16,1,map/104c.wav,c. Low (average rating between 2-3),2
+17,1,map/97c.wav,c. Low (average rating between 2-3),2
+18,1,map/101c.wav,c. Low (average rating between 2-3),2
+19,1,map/9c.wav,c. Low (average rating between 2-3),2
+20,1,map/120c.wav,c. Low (average rating between 2-3),2
+21,1,map/85c.wav,c. Low (average rating between 2-3),2
+22,1,map/14c.wav,c. Low (average rating between 2-3),2
+23,1,map/4c.wav,c. Low (average rating between 2-3),2
+24,1,map/123c.wav,c. Low (average rating between 2-3),2
+25,1,map/44c.wav,c. Low (average rating between 2-3),2
+26,1,map/54c.wav,c. Low (average rating between 2-3),2
+27,1,map/115c.wav,c. Low (average rating between 2-3),2
+28,1,map/23c.wav,c. Low (average rating between 2-3),2
+29,1,map/22c.wav,c. Low (average rating between 2-3),2
+-16,0,map/29c.wav,d. Very Low (average rating between 1-2),3
+-12,0,map/106c.wav,d. Very Low (average rating between 1-2),3
+-8,0,map/100c.wav,d. Very Low (average rating between 1-2),3
+-4,0,map/57c.wav,d. Very Low (average rating between 1-2),3
+0,0,map/3c.wav,d. Very Low (average rating between 1-2),3
+4,0,map/2c.wav,d. Very Low (average rating between 1-2),3
+8,0,map/121c.wav,d. Very Low (average rating between 1-2),3
+12,0,map/24c.wav,d. Very Low (average rating between 1-2),3
+16,0,map/95c.wav,d. Very Low (average rating between 1-2),3
